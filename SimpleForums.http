@@ -1,0 +1,6 @@
+@SimpleForums_HostAddress = http://localhost:5197
+
+GET {{SimpleForums_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
